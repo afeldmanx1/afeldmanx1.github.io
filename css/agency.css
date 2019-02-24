@@ -21,6 +21,10 @@ a:hover {
   color: #fec503;
 }
 
+i:hover {
+  color: #fec503;
+}
+
 .text-primary {
   color: #fed136 !important;
 }
@@ -164,10 +168,16 @@ img::-moz-selection {
   }
 }
 
+h5 {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 80px;
+}
+
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/philly2.jpg");
+  background-image: url("../img/philly.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -443,7 +453,7 @@ header.masthead .intro-text .intro-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #011f5b;
 }
 
 .timeline > li .timeline-image h4 {
